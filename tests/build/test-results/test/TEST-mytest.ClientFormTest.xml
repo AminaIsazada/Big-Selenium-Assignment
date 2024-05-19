@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mytest.ClientFormTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-19T14:12:35" hostname="e6087c384835" time="63.799">
+  <properties/>
+  <testcase name="testCompleteClientFormSubmission" classname="mytest.ClientFormTest" time="63.799"/>
+  <system-out><![CDATA[Submitting form...
+]]></system-out>
+  <system-err><![CDATA[May 19, 2024 4:12:35 PM org.openqa.selenium.remote.RemoteWebDriver checkNonW3CCapabilities
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [marionette]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+May 19, 2024 4:12:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+May 19, 2024 4:12:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [marionette]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+]]></system-err>
+</testsuite>

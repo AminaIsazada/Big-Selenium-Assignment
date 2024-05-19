@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'io.github.cdimascio:dotenv-java:2.2.0'
+
+    testImplementation 'org.seleniumhq.selenium:selenium-java:4.5.0' 
+    testImplementation 'org.seleniumhq.selenium:selenium-firefox-driver:4.5.0'
+    testImplementation('junit:junit:4.13.2') {
+        exclude group: 'org.hamcrest'
+    }
+    testImplementation 'org.hamcrest:hamcrest:2.2' 
+    testImplementation "org.slf4j:slf4j-simple:1.7.36" 
+}

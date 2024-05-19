@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mytest.BrowserHistoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-19T14:11:27" hostname="e6087c384835" time="68.002">
+  <properties/>
+  <testcase name="testBrowserBackButton" classname="mytest.BrowserHistoryTest" time="68.002"/>
+  <system-out><![CDATA[Navigated to main page
+Navigated to Personalised Itinerary page
+Navigated to European Premium Package page
+Navigated to Transportation page
+Navigated to European Business Trip page
+Navigated to Signature Travel page
+Navigated back to European Business Trip page
+Navigated back to Transportation page
+Navigated back to European Premium Package page
+Navigated back to Personalised Itinerary page
+]]></system-out>
+  <system-err><![CDATA[May 19, 2024 4:11:27 PM org.openqa.selenium.remote.RemoteWebDriver checkNonW3CCapabilities
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [marionette]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+May 19, 2024 4:11:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+May 19, 2024 4:11:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [marionette]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+]]></system-err>
+</testsuite>

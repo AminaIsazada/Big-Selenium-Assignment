@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mytest.MultiplePageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-19T14:09:34" hostname="e6087c384835" time="60.818">
+  <properties/>
+  <testcase name="testMultiplePages" classname="mytest.MultiplePageTest" time="60.818"/>
+  <system-out><![CDATA[Testing page: https://erat-travel.com/destinations/western-europe
+Testing page: https://erat-travel.com/destinations/southern-europe
+Testing page: https://erat-travel.com/destinations/eastern-central-europe
+Testing page: https://erat-travel.com/destinations/south-eastern-europe
+]]></system-out>
+  <system-err><![CDATA[May 19, 2024 4:09:34 PM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+May 19, 2024 4:09:37 PM org.openqa.selenium.remote.RemoteWebDriver checkNonW3CCapabilities
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [marionette]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+May 19, 2024 4:10:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+May 19, 2024 4:10:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [marionette]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+]]></system-err>
+</testsuite>
