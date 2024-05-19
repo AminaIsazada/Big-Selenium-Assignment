@@ -1,0 +1,7 @@
+.idea
+.idea
+tests/.gradle
+tests/.env.properties
+bin
+.env.properties
+# tests/build
